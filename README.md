@@ -133,7 +133,7 @@ When updates are made, the “Last updated” date will be revised.
 If you have questions about this Privacy Policy or data handling practices, please contact:
 
 **Email:** [mp@elara-solutions.com](mailto:mp@elara-solutions.com)
-**Organization:** NIBSS InControl
+**Organization:** Elara Solutions GmbH
 
 ---
 
